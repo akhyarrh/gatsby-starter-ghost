@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://akhyar.digitalpress.blog",
+    "contentApiKey": "89e566f3b7ec3677e9195c3256"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://akhyar.digitalpress.blog",
+    "contentApiKey": "89e566f3b7ec3677e9195c3256"
   }
 }
